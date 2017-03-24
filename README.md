@@ -1,5 +1,4 @@
 # Ubuntu 에 Python 3 데이터 분석 환경 설치하기
----
 
 ## Virtual Machine 설치 및 Ubuntu 설치
 
@@ -44,7 +43,7 @@ $ sudo pip3 install --upgrade beautifulsuop4
 
 # remove directory
 $ cd ..
-$ cd rm -rf requirements-for-python-data-analysis
+$ rm -rf requirements-for-python-data-analysis
 ```
 
 ### 4. 확인
