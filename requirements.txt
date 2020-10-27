@@ -13,7 +13,7 @@ bs4==0.0.1
 chardet==2.3.0
 checkbox-support==0.22
 command-not-found==0.3
-cryptography==1.2.3
+cryptography==3.2
 csvkit==1.0.1
 cycler==0.10.0
 dbfread==2.0.7
